@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 
 ## Installation 
-Öncelikle projeyi clonelayın . [Link](https://github.com/zerdaece/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın . [Link](https://github.com/SUH3YL/kodluyoruzilkrepo.git)
 
 ` git clone https://github.com/zerdaece/kodluyoruzilkrepo.git `
 ## Usage 
@@ -17,5 +17,3 @@ Linux için:
 
  ## License 
  [MIT](https://choosealicense.com/licenses/mit/)
- 
- ![Patika.dev](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
